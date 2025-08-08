@@ -1,0 +1,35 @@
+[
+  {
+    "modelo": "Acer Aspire 5",
+    "imagem": "./img/aspire.webp",
+    "cpu": "Ryzen 7 5700U",
+    "ram": "16GB",
+    "ssd": "512GB",
+    "tela": "15.6' IPS Full HD",
+    "gpu": "Integrada Vega",
+    "os" : "Windows 11",
+    "uso_indicado": ["Estudante", "Programador", "BI"]
+  },
+  {
+    "modelo": "ASUS TUF A15",
+    "imagem": "./img/asus.webp",
+    "cpu": "Ryzen 7 7735HS",
+    "ram": "8GB (expansível)",
+    "ssd": "512GB NVMe",
+    "tela": "144Hz IPS",
+    "gpu": "RTX 2050",
+    "os": "Windows 11",
+    "uso_indicado": ["Gamer", "Editor de vídeo", "Programador avançado"]
+  },
+    {
+    "modelo": "Lenovo Ideapad Slim",
+    "imagem": "./img/ideapad.avif",
+    "cpu": "Intel Core i3-1215U",
+    "ram": "8GB",
+    "ssd": "256GB SSD",
+    "tela": "15,6'",
+    "gpu": "Integrada",
+    "os": "Windows 11",
+    "uso_indicado": ["Editor de vídeo", "Estudante", "Programador"]
+  }
+]
